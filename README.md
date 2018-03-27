@@ -4,7 +4,7 @@ Unknown Pleasures
 
 ## Screenshot
 
-![jd.png](jd.png "jd.png")
+<img src="jd.png" width="400">
 
 ## References
 
